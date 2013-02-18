@@ -1,0 +1,6 @@
+### /etc/apt/preferences.d/kernel_update_pinning ###
+### tell APT to skip kernel update
+### [from] (http://askubuntu.com/questions/178324/how-to-skip-kernel-update)
+Package: linux-generic linux-headers-generic linux-image-generic linux-restricted-modules-generic
+Pin: version 3.2.0.37.45
+Pin-Priority: 1001

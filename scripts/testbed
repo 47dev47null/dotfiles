@@ -1,0 +1,9 @@
+#!/usr/bin/expect -f
+# testbed autologin
+set PWD your-passwd-here
+spawn -noecho ssh -p 43019 your-user-name-here@202.120.40.98
+set timeout 60
+match_max 100000
+expect "*?assword:*"
+send -- "$PWD\r"
+interact

@@ -1,0 +1,3 @@
+#!/bin/bash
+# bluessh login
+ssh -Nf -D 7070 -p 80 bluessh@free.bluessh.com
