@@ -1,0 +1,46 @@
+Lists of packages I have installed on my Ubuntu PC.
+
+*   vim-gtk (to enable X11 system clipboard support)
+*   build-essential
+*   chromium-browser
+*   chromium-codecs-ffmpeg-extra (to support mp3 playing)
+*   git
+*   [github blog](http://47dev47null.github.com)
+>   install ruby1.9.1-dev python-pygments markdown
+>   sudo gem install jekyll
+>   sudo gem install rdiscount
+>   sudo gem install redcarpet
+*   pandoc
+*   preload
+*   flashplugin-installer
+*   calibre
+*   chmsee
+*   jupiter
+>   add-apt-repository ppa:webupd8team/jupiter
+*   [anki 2](http://ankisrs.net/anki2.html)
+*   flex & bison
+*   unrar
+*   [Splashtop Streamer](www.splashtop.com/streamer/download)
+*   easytag
+*   rhythmbox-plugin-llyrics && rhythmbox-plugin-repeat-one-song
+>   add-apt-repository ppa:fossfreedom/rhythmbox-plugins
+*   indent
+*   expect
+*   bino
+*   xournal
+*   valgrind
+*   tomate
+>   add-apt-repository ppa:stvs/tomate
+*   guake
+*   vlc
+*   autoconf
+*   fcitx
+*   myunity
+*   gimp
+>   add-apt-repository ppa:otto-kesselgulasch/gimp
+*   indicator-multiload
+*   sopcast-player
+>   add-apt-repository ppa:ferramroberto/sopcast
+*   dconf-tools
+*   oracle-java7-installer
+>   add-apt-repository ppa:webupd8team/java
