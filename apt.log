@@ -39,12 +39,8 @@ Lists of packages I have installed on my Ubuntu PC.
 *   gimp
 >   add-apt-repository ppa:otto-kesselgulasch/gimp
 *   indicator-multiload
-*   sopcast-player
->   add-apt-repository ppa:ferramroberto/sopcast
 *   dconf-tools
 *   oracle-java7-installer
 >   add-apt-repository ppa:webupd8team/java
 *   grub-customizer
 >   add-apt-repository ppa:danielrichter2007/grub-customizer
-*   ubuntu-tweak
->   add-apt-repository ppa:tualatrix/ppa
